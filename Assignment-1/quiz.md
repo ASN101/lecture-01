@@ -1,8 +1,8 @@
-Name:
+Name: Akhil Nair
 
 These questions are multiple choice. To answer the questions put the number of the answer after the answer prompt. For example, to choose answer 4 your answer will look like this:
 
-    Answer-n: 4
+Answer-n: 4
 
 ------
 
@@ -24,7 +24,7 @@ Q2. What does the command `cp -r` do?
 3. Removes a directory by copying
 4. Moves a directory
 
-Answer-2: 1
+Answer-2: 2
 
 ------
 
