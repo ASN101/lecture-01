@@ -1,18 +1,16 @@
-Name: Jim Nasium
+Name: Akhil Nair
 
-I am a professor. 
+I am a student in the course 06882 - Creating scientific research software. 
 
 
-After that, write at least 50 words telling me about yourself, and your background in programming.
-
-You should commit the file to your repo, and push it to GitHUB.
+I work as a research assistant in the PSE lab under Professor Carl Laird and Professor Ana Torres
 
 
 
 ## Create a file called summary.md
 
-Write a summary of the things we learned about in class today in that file. You should describe each command you learned about. Your file should have at least 20 lines in it.
-
+The difference between powershell and bash and the environments theyre used in. How deepnote uses a docker environment
+to host the required software to develop.
 
 ## Quiz
 
